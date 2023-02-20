@@ -25,7 +25,7 @@ body {
     border-width: 10px;
     border-color: blue;
     border-style: dashed;
-    padding: 30px;
+    padding: 10px;
 }
 .box2 {
     background: red;
@@ -35,7 +35,7 @@ body {
     border-width: 10px;
     border-color: blue;
     border-style: dashed;
-    padding: 30px;
+    padding: 10px;
 }
 
 .container2 {
@@ -43,15 +43,15 @@ body {
     align-items: center;
     width: 200px;
     height: 200px;
-    background-color: white;
+    background-color: aqua;
 }
 .box3 {
     width: 100px;
     height: 150px;
-    background: white
+    background-color: white;
 }
 .box4 {
     width: 150px;
     height: 100px;
-    background: white
+    background-color: white ;
 }
